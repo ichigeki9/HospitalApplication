@@ -1,0 +1,28 @@
+.layoutModal{
+    
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10    
+}
+
+.layoutModal dialog {
+    border: none;
+}
+
+.modal {
+    position: relative;
+    width: 35rem;
+    /* height: 38rem; */
+    /* height: 53rem; */
+    padding: 2rem;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1rem;
+}

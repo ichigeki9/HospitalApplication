@@ -1,0 +1,18 @@
+.inputBox {
+	width: 100%;
+	display: flex;
+	align-items: start;
+	justify-content: center;
+	flex-direction: column;
+}
+.inputBox label {
+	font-size: 1.2rem;
+	margin: 1rem 0;
+}
+
+.inputBox select {
+	width: 100%;
+	height: 3rem;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+}

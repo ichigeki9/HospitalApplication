@@ -1,0 +1,12 @@
+.title {
+	margin-bottom: 3rem;
+	font-size: 2rem;
+}
+
+.buttonBox {
+    margin-top: 1.5rem;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	
+}

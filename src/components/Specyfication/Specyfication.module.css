@@ -1,0 +1,18 @@
+.specContainer{
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+.specContainer h2{
+    font-size: 3rem;
+    margin-bottom: 5rem;
+}
+
+/* .box{
+    margin-top: 4rem;
+} */

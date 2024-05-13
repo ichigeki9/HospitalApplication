@@ -1,0 +1,26 @@
+.inputBox{
+	margin-bottom: 1.5rem;
+	width: 32rem;
+	height: 5rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* border: 2px solid yellow */
+}
+
+input {
+    width: 30rem;
+    height: 100%;
+	padding: 1rem 1rem;
+	border: 2px solid white;
+	border-radius: 1rem;
+	background: inherit;
+	font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+
+input::placeholder{
+    color: rgb(255, 255, 255);
+    opacity: 1;
+}
+

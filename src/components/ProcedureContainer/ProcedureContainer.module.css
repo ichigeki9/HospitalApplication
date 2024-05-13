@@ -1,0 +1,12 @@
+.box {
+	position: relative;
+	width: 100vw;
+	height: 2100px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: start;
+	padding: 4rem 6rem; 
+	gap: 1rem;
+}

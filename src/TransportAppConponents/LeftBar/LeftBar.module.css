@@ -1,0 +1,25 @@
+.infoBox {
+	width: 100%;
+	height: 33rem;
+	border-bottom: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	padding-top: 1rem;
+	justify-content: start;
+	align-items: center;
+}
+.infoBox div {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding-bottom: 2rem;
+}
+.infoBox div p {
+	padding-bottom: 0.5rem;
+}
+.calendarContainer {
+	width: 100%;
+	
+}

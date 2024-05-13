@@ -1,0 +1,11 @@
+.selectedProceduresBox {
+    
+	position: absolute;
+	top: 0;
+	left: 0;
+    width: 100vw;
+	font-size: 1.3rem;
+	padding: 0.2rem 1rem;
+	border-bottom: 1px solid rgb(206, 206, 206);
+    overflow-wrap: break-word;
+}

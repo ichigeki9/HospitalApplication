@@ -1,0 +1,114 @@
+.title {
+	margin-bottom: 1.5rem;
+	font-size: 2rem;
+}
+
+.inputBoxes {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.inputBox {
+	width: 100%;
+	display: flex;
+	align-items: start;
+	justify-content: center;
+	flex-direction: column;
+}
+.inputBox label {
+	width: 100%;
+	font-size: 1.2rem;
+	margin: 1rem 0;
+}
+
+.inputBox select {
+	width: 100%;
+	height: 3rem;
+	font-size: 1.1rem;
+	padding: 0.5rem;
+}
+
+.buttonBox {
+	margin-top: 2rem;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.checkboxBox {
+	display: flex;
+	align-items: center;
+	margin-top: 2rem;
+	margin-left: 1rem;
+	width: 100%;
+	justify-content: space-around;
+	
+}
+
+.chechboxTransport,.chechboxDate {
+	width: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.3rem;
+
+}
+
+.chechboxTransport input,.chechboxDate input , .checkboxContainerDoctor input{
+	width: 1.3rem;
+	height: 1.3rem;
+}
+.chechboxDate label{
+	width: 80%;
+	margin-right: 1rem;
+}
+.chechboxTransport label{
+	width: 45%;
+}
+
+.checkboxContainerDoctor{
+	width: 100%;
+}
+
+.chechboxDoctor{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 50%;
+	
+}
+.transpDoctorCheck{
+	margin-right: 1rem;
+	font-size: 1.3rem;
+}
+
+
+.transportProp {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100%;
+	margin-top: 2rem;
+}
+
+.inputTranspPropBox {
+	justify-content: center;
+	flex-direction: column;
+	margin-bottom: 2rem;
+	font-size: 1.4rem;
+	width: 40%;
+}
+
+.inputTranspPropBox input {
+	width: 100%;
+	color: #000;
+	border: 1px solid black;
+	font-size: 1rem;
+	border-radius: 5px;
+	padding: 1rem;
+	margin-top: 0.5rem;
+}

@@ -1,0 +1,45 @@
+.filterBox {
+	width: 100%;
+	height: 2rem;
+	border-bottom: 1px solid black;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.filterBox div {
+	border-right: 1px solid black;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* background-color:#458fff ; */
+}
+
+/* .active{
+} */
+
+.lp {
+	flex-shrink: 1.14;
+}
+img {
+	height: 100%;
+}
+
+.comment{
+position: relative;
+}
+.popup{
+position: absolute;
+top: -2rem;
+left: -3rem;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+width: 150px;
+height: 40px;
+border: 1px solid  black;
+background-color: #fffd6e;
+opacity: 0.8;
+}

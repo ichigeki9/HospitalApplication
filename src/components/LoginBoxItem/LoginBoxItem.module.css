@@ -1,0 +1,12 @@
+.box{
+    width: 35rem;
+    height: 30rem;
+    padding: 4rem;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+

@@ -1,0 +1,27 @@
+.header {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100vw;
+	height: 8rem;
+	background-color: #cec9c9;
+}
+
+.title {
+	color: black;
+}
+.titleBox {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	padding-top: 1.5rem;
+	justify-content: center;
+}
+
+.buttonBox {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 45rem;
+}

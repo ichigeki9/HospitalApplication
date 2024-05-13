@@ -1,0 +1,670 @@
+[
+    {
+      "category": "badaniaLab",
+      "name": "aptt",
+      "idProc": "G11",
+      "price": 16,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "alat",
+      "idProc": "I17",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "aspat",
+      "idProc": "I19",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "morfologia",
+      "idProc": "C53",
+      "price": 20,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "gazometria",
+      "idProc": "89.661",
+      "price": 28,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "mocz",
+      "idProc": "A01",
+      "price": 20,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "glukoza",
+      "idProc": "L43",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "kreatynina",
+      "idProc": "M37",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "mocznik",
+      "idProc": "N13",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "jonogram",
+      "idProc": "N45,O35",
+      "price": 20,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "pt",
+      "idProc": "G21",
+      "price": 16,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "d-dimery",
+      "idProc": "G49",
+      "price": 45,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "amylaza",
+      "idProc": "I25",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "crp",
+      "idProc": "I81",
+      "price": 18,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "bilirubina",
+      "idProc": "I89",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "lipaza",
+      "idProc": "M67",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "troponina",
+      "idProc": "O61",
+      "price": 37,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "alkohol",
+      "idProc": "P31",
+      "price": 20,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "covid",
+      "idProc": "V100",
+      "price": 100,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "ck",
+      "idProc": "M18",
+      "price": 15,
+      "isCheck": false
+    },
+    {
+      "category": "badaniaLab",
+      "name": "prokalcytonina",
+      "idProc": "N58",
+      "price": 100,
+      "isCheck": false
+    },
+    {
+      "category": "podstawowe",
+      "name": "podstawa",
+      "isCheck": false,
+      "idProc": "89.00,89.04,89.71,89.73"
+    },
+    {
+      "category": "podstawowe",
+      "name": "konsultacja",
+      "isCheck": false,
+      "idProc": "89.02"
+    },
+    {
+      "category": "podstawowe",
+      "name": "badanie temperatury",
+      "isCheck": false,
+      "idProc": "99.99902"
+    },
+    {
+      "category": "podstawowe",
+      "name": "ekg",
+      "isCheck": false,
+      "idProc": "89.522"
+    },
+    {
+      "category": "podstawowe",
+      "name": "cewnikowanie",
+      "isCheck": false,
+      "idProc": "57.01"
+    },
+    {
+      "category": "podstawowe",
+      "name": "monitorowanie",
+      "isCheck": false,
+      "idProc": "89.540"
+    },
+    {
+      "category": "podstawowe",
+      "name": "tlenoterapia",
+      "isCheck": false,
+      "idProc": "93.96"
+    },
+    {
+      "category": "podstawowe",
+      "name": "sonda do żołądka",
+      "isCheck": false,
+      "idProc": "96.07"
+    },
+    {
+      "category": "podstawowe",
+      "name": "płukanie żołądka",
+      "isCheck": false,
+      "idProc": "96.34"
+    },
+    {
+      "category": "podstawowe",
+      "name": "ogrzewanie pacjenta",
+      "isCheck": false,
+      "idProc": "99.852"
+    },
+    {
+      "category": "resuscytacja",
+      "name": "sedacja",
+      "idProc": "100.51",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "resuscytacjaBP",
+      "idProc": "93.932",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "znieczulDozyl pow",
+      "idProc": "100.10",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "znieczulDozyl",
+      "idProc": "100.11",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "resp",
+      "idProc": "93.9",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "intubacja",
+      "idProc": "96.04",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "wentWspRur",
+      "idProc": "96.71",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "przywRytZat",
+      "idProc": "99.623",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "defibrylacja",
+      "idProc": "99.624",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "innaWenMech",
+      "idProc": "93.92",
+      "isCheck": false
+    },
+    {
+      "category": "resuscytacja",
+      "name": "ProwRKO",
+      "idProc": "99.601",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "wklucie",
+      "idProc": "38.93",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "doustna",
+      "idProc": "99.97900",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "dozylna",
+      "idProc": "99.97904",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "domiesniowa",
+      "idProc": "99.97902",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "srodskorna",
+      "idProc": "99.97905",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "podskorna",
+      "idProc": "99.97906",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "podjezykowa",
+      "idProc": "99.97907",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "doodbytnicza",
+      "idProc": "99.97909",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "nebulizator",
+      "idProc": "99.97910",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "infuzjaElektrolitow",
+      "idProc": "99.18",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "trankwilizator",
+      "idProc": "99.26",
+      "isCheck": false
+    },
+    {
+      "category": "farmakoterapia",
+      "name": "anatoksyna",
+      "idProc": "99.38",
+      "isCheck": false
+    },
+   {
+      "category": "zabiegowe",
+      "name": "opatrunek",
+      "idProc": "93.57",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "oczyszczRan",
+      "idProc": "86.289",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szycied4",
+      "idProc": "86.52",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szyciep4",
+      "idProc": "86.53",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "znieczul",
+      "idProc": "23.0402",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szycieLiczd4R",
+      "idProc": "86.54",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szucieLiczPow4R",
+      "idProc": "86.55",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szycieNos",
+      "idProc": "21.81",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szycieRanyWargi",
+      "idProc": "27.51",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "szycieRanyJamUst",
+      "idProc": "27.52",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "usunCialaObceInne",
+      "idProc": "98.20",
+      "isCheck": false
+    },
+    {
+      "category": "zabiegowe",
+      "name": "tampNosa",
+      "idProc": "21.03",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "gipsowanie",
+      "idProc": "93.53",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "unierK-G",
+      "idProc": "93.5020",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "unierK-D",
+      "idpro": "93.5022",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "innaSzyna",
+      "idProc": "93.549",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "zamkNastZwi",
+      "idProc": "79.70",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "zamkNastZla",
+      "idProc": "79.00",
+      "isCheck": false
+    },
+    {
+      "category": "zabInne",
+      "name": "załKoł",
+      "idProc": "93.521",
+      "isCheck": false
+    },
+    {
+      "category": "rtg",
+      "name": "rtgNosa",
+      "idProc": "87.165",
+      "isCheck": false,
+      "price": 80
+    },
+    {
+      "category": "rtg",
+      "name": "rtgTwarzoczaszki",
+      "idProc": "87.174",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgCzaszki",
+      "idProc": "87.176",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgKrSzyj",
+      "idProc": "87.221",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgKrPie",
+      "idProc": "87.231",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgKrLK",
+      "idProc": "87.241",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgZeber",
+      "idProc": "87.431",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgObojczykow",
+      "idProc": "87.433",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgMostka",
+      "idProc": "87.432",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgKlp",
+      "idProc": "87.440",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgJB",
+      "idProc": "88.191",
+      "isCheck": false,
+      "price": 50
+    },
+    {
+      "category": "rtg",
+      "name": "rtgBarkRamie",
+      "idProc": "88.21",
+      "isCheck": false,
+      "price": 80
+    },
+    {
+      "category": "rtg",
+      "name": "rtgLokciaPrzedramienia",
+      "idProc": "88.22",
+      "isCheck": false
+    },
+    {
+      "category": "rtg",
+      "name": "rtgNadgDloni",
+      "idProc": "88.23",
+      "isCheck": false,
+      "price": 80
+    },
+    {
+      "category": "rtg",
+      "name": "rtgMiednicyBiodra",
+      "idProc": "88.26",
+      "isCheck": false,
+      "price": 100
+    },
+    {
+      "category": "rtg",
+      "name": "rtgUdaKolanaPodu",
+      "idProc": "88.27",
+      "isCheck": false,
+      "price": 80
+    },
+    {
+      "category": "rtg",
+      "name": "rtgKostki",
+      "idProc": "88.28",
+      "isCheck": false,
+      "price": 80
+    },
+    {
+      "category": "rtg",
+      "name": "rtgLopatek",
+      "idProc": "88.331",
+      "isCheck": false,
+      "price": 50
+    },
+    {
+      "category": "tk",
+      "name": "tkGlowy",
+      "idProc": "87.030",
+      "price": 400,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkGlTwarz",
+      "idProc": "87.034",
+      "price": 450,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkKrSzyj",
+      "idProc": "88.383",
+      "price": 400,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkKlp",
+      "idProc": "87.410",
+      "price": 500,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkBrzuMie",
+      "idProc": "88.010",
+      "price": 600,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkKrPie",
+      "idProc": "88.385",
+      "price": 400,
+      "isCheck": false
+    },
+    {
+      "category": "tk",
+      "name": "tkKrLe",
+      "idProc": "88.387",
+      "price": 600,
+      "isCheck": false
+    },
+    {
+      "category": "tkKon",
+      "name": "tkGloKon",
+      "idProc": "87.049",
+      "price": 450,
+      "isCheck": false
+    },
+    {
+      "category": "tkKon",
+      "name": "tkKlpKon",
+      "idProc": "87.411",
+      "price": 550,
+      "isCheck": false
+    },
+    {
+      "category": "tkKon",
+      "name": "tkBrzuKon",
+      "idProc": "88.011",
+      "price": 650,
+      "isCheck": false
+    },
+    {
+      "category": "tkKon",
+      "name": "tkInne",
+      "idProc": "88.38",
+      "price": 950,
+      "isCheck": false
+    },
+    {
+      "category": "usg",
+      "name": "usgBrzu",
+      "idProc": "88.761",
+      "price": 180,
+      "isCheck": false
+    }
+  ]

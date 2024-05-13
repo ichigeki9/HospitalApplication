@@ -1,0 +1,25 @@
+.btnBox{
+    margin-top: 2rem;
+    width: 32rem;
+	height: 4rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn{
+    width: 30rem;
+    height: 100%;
+    border: 2px solid #92E658;
+	border-radius: 1rem;
+	background: inherit;
+	font-size: 1.5rem;
+    color: #92E658;
+    transition: background-color .5s;
+}
+
+.btn:hover{
+    color: #1F4CA3;
+    background-color: #92E658;
+    border: 2px solid #1F4CA3;
+}

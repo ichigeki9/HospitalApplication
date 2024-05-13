@@ -1,0 +1,28 @@
+.procedureBox {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	flex-direction: column;
+	/* border: 1px solid black; */
+	/* width: 300px; */
+	
+	padding: 2rem;
+	
+	align-self:flex-end;
+}
+
+.procedureBox ul li {
+	margin-bottom: 0.5rem;
+}
+
+.procedureBox ul {
+	padding: 1.5rem;
+	width: 100%;
+	/* border: 1px solid blue; */
+}
+
+.fieldset {
+	width: 20rem;
+	font-size: 1.2rem;
+	/* border: 1px solid red; */
+}
